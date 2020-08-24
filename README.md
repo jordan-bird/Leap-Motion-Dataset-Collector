@@ -39,4 +39,4 @@ Edit this readme when I have some time in order to give more details and more us
 A Python 3.x version of this script if Leap ever decide to release a stable API. I had no luck with the Python 3 APIs out there from third parties unfortunately. 
 
 # Usage
-Feel free to use this for anything. If you engineer more features, feel free to make a pull request
+Feel free to use this for anything. I will merge pulls for new features and engineered features from those which have been collected. 
