@@ -32,3 +32,10 @@ It would likely be useful to introduce lag windows for more complex problems
 Clean up code, it is a bit of a mess at the moment. It works fine though. 
 
 Edit this readme when I have some time in order to give more details and more user-friendly help
+
+3D angles are calculated using a separate script, which I will upload soon
+
+A Python 3.x version of this script if Leap ever decide to release a stable API. I had no luck with the Python 3 APIs out there from third parties unfortunately. 
+
+# Usage
+Feel free to use this for anything. If you engineer more features, feel free to make a pull request
