@@ -40,3 +40,10 @@ A Python 3.x version of this script if Leap ever decide to release a stable API.
 
 # Usage
 Feel free to use this for anything. I will merge pulls for new features and engineered features from those which have been collected. 
+
+# Publication
+This script was used in part for data collection in:
+
+Bird, Jordan J., Aniko Ekart, and Diego R. Faria. "British Sign Language Recognition via Late Fusion of Computer Vision and Leap Motion with Transfer Learning to American Sign Language." (2020).
+
+
