@@ -2,12 +2,13 @@
 Collect data from a leap motion device and create a CSV file
 
 # Requirements
-Leap API
-NumPy
-vg
-cv2
+Python: Leap API, NumPy. vg. cv2
+
+Leap: Software for your device and OS 
 
 # Set up
+Just drop this script alongside the Leap python example in the Developer API when unzipped
+
 Lines 32 and 33:
 
 label = "CAR"
