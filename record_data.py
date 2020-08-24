@@ -1,3 +1,5 @@
+# LICENSE FOR THE ORIGINAL EXAMPLE SCRIPT:
+
 ################################################################################
 # Copyright (C) 2012-2013 Leap Motion, Inc. All rights reserved.			   #
 # Leap Motion proprietary and confidential. Not for distribution.			   #
@@ -5,6 +7,8 @@
 # https://developer.leapmotion.com/sdk_agreement, or another agreement		   #
 # between Leap Motion and you, your company or other organization.			   #
 ################################################################################
+
+# DATASET COLLECTION FROM ORIGINAL EXAMPLE SCRIPT CREATED BY JORDAN BIRD
 
 import Leap, sys, thread, time
 import math
