@@ -27,3 +27,8 @@ The final column in the dataset is the label variable (in this case CAR) as a st
 
 # For complex gestures
 It would likely be useful to introduce lag windows for more complex problems
+
+# To Do
+Clean up code, it is a bit of a mess at the moment. It works fine though. 
+
+Edit this readme when I have some time in order to give more details and more user-friendly help
