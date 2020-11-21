@@ -16,7 +16,6 @@ import numpy as np
 import vg
 from Leap import CircleGesture, KeyTapGesture, ScreenTapGesture, SwipeGesture
 import time
-import numpy as np
 import cv2
 import os
 
